@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav R. Mali</h1>
 <h3 align="center">A passionate full stack Java Developer</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif”>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-mali&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-mali" /> </p>
 
 - 🔭 I’m currently working on **Spring**
